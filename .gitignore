@@ -1,0 +1,11 @@
+.vs/
+Temp/
+obj/
+Library/
+BUILD/
+Release/
+*.sln
+*.csproj
+.TIM-Log/
+.TIM-Config/
+Export/
