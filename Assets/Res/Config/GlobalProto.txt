@@ -1,0 +1,1 @@
+{"NetLineSwitchUrl":"http://47.57.11.101:8061/api/nw/status","AssetBundleServerUrl":"https://kingfisherlvt.github.io/","Address":"127.0.0.1:10002"}

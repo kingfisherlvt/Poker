@@ -1,0 +1,1 @@
+{"Android":"1.1.1","AndroidUrl":"http://127.0.0.1:8080/crazypoker.apk","ApkName":"crazypoker.apk","ApkSize":0,"IOS":"1.1.1","IOSUrl":"http://www.baidu.com","Msg":"","IOSAppStore":null,"IsAppStore":false,"CheckRes":false}
